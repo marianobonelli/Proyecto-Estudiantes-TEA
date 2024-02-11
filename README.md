@@ -1,1 +1,1 @@
-# Proyecto-Estudiantes-TEA
+# Proyecto Estudiantes TEA
