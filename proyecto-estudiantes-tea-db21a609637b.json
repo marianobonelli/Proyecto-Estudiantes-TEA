@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-estudiantes-tea",
+  "private_key_id": "db21a609637b227b0ab93921517210cd4d35707b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvsLZ7kp4zG5N8\nCIyuXFzZBm7XzezM67Lzac87OPb118Bsf9lVAXrbA2bLcMvIYJfxwbcDa0wvokOe\njoByuZBBJWecv2vhwAwCGYQnhe6w5BdlY1grrYrIbnfiEX7e3o6fFWe9h66gTkfW\nGrTKwTAXMSXJih0loWPk/o54eplC72ioJL5a/io/nvPeHRufHT7wpl88Vj6aizvg\nECM/+YJAOAykDPnks9bB2CC9qOWxVSkuYIl0eqLvjKODpvl2Q5nD7vSYjLziNIkY\nFC+DyBfOG+7Y0qoFA4neqbK2HhOD47wuY7EUR+PXrQ2lxmDL05f0DZzaZfhMpJuv\n39Ux85t/AgMBAAECggEAAXbM20vU9JgTCPWR0CZsW2KhRZGCzhA50++WUwomfCo/\nCdugfIxTaLME9RNzBa/qgypNSw9VkzItXhPR7SLR7socvZgN+MKP35a9PuxnVRII\n/b48l3Xr1EhKlVNt3VyF9d58D+URj3egEI8XWP+YeBB5UTSiPL8bjXeipzw8LNsj\nq17pfBQfC0vIq+eOBhygR+0A+WD5NFsn7uJz91QIji/SSG0MSLL+rUYOOUxbOtNA\nHyHIoBSPRVkgI5kMCqXzUIgJhIdtGnNt4Ty2+f02iH6MoRvn8DVvQ+yaFmdGHa7u\n7IJllfvTPYxADialEkJr0MqpZk9Fz1GaOzKlpy0AAQKBgQDmW/d7BCwyDQuGDBWz\ncn+hGq0OSB+oEP5qr3j+jZ1U4pLGbOGHkWjk1LgyVf7miYmbuiQBsdRjZ8JgKcbl\neqcCI/tVqLk2fJxtJWCeS3HsJecycfkLSOs+7007jTk3TMJVvVXuXGy56BBUpQ/O\n5yc8qK8VC/DvyRocl3gsmw1HWQKBgQDDPvd8r/FBeIARt2xAxJ+es78k9kzgigGO\ne7jOnJw7UzgN2Xu9IaF8zOgKtTRfygHr1lfk4vgNYtqw4xG/QC2MFiFpC+JChFg0\nQrw3k99s+1LVj9lhDlOKDExlwEF95EN9k+9HSjHXCtnYoJKPOClCSdVA2eRaLJEF\nGF5CfCf2lwKBgCBKtheNjzB4+auR2BzuqQuJdMbyv1VNBI0qCfkNGwgCNvcP3lGl\nxaGGXEfaHEBu+VZWMqP2LMK+kdXvJU2X8v9u0dXBMC1+LGN0gOXPx6mF6rH8nh/B\n2hBZdWcqteGVpgxk3T3rwOYSrO9gsCWd67cqIlj98ol6lGl7pkICfksJAoGANicD\nu4iNEIyccM1/7+LZJspR7K2HmwuL7PnxwxR63JVzSZwVjtqCELxAa5/gm+TKbZ/w\nluJAzG2rnD4OkQ361AzbTWhnY+2TDUOpMn0IDhES43rXXuz7TKGmmt4dDA7AjVb3\nmb1BX5R54XR/0ctQ3jreM/N7O2t6+X/NvQD0kJcCgYEAm6c6T32HvrmWS1UH2bvL\nMvvQxkXtgpMrIwYNrZftsuaLSxj6uf0fJZumYgUumpQnqiMag84SXJ0cwZCQVDwU\nboTRiA5uy9OOc3Jj+ZRizkqtPFGRbmd1JtLwatJ2qo7thM1csSLA4qy1xjeOd5X/\nqL5SPotOICWm6V8mYu6CNdM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto-estudiantes-tea@proyecto-estudiantes-tea.iam.gserviceaccount.com",
+  "client_id": "110379381552100583194",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto-estudiantes-tea%40proyecto-estudiantes-tea.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
