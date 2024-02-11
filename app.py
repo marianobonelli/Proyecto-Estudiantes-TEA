@@ -1,8 +1,9 @@
 import streamlit as st
 # from PIL import Image
-import pandas as pd
+# import pandas as pd
 # import pygsheets
 # from google.oauth2 import service_account
+#
 
 #########################################################################################################################
 # Page Config y estilo
